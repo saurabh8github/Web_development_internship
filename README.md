@@ -8,4 +8,4 @@ https://drive.google.com/drive/folders/1apze79g1whOdXGOmEiVyu3JHwnAjDul5?usp=sha
 3) Take this in one folder
 4) open with code editor
 5) Run it on your local environment
-6) 
+6) Your done with setup
